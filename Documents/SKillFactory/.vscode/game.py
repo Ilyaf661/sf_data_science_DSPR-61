@@ -19,4 +19,4 @@ while True:
     else: 
         print (f"Ты угадал число {number} за {count} попыток")
         break
-    
+    изменения
