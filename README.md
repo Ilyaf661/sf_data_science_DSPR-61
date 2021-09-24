@@ -4,6 +4,6 @@ From the [SillFactory Course](https://lms.skillfactory.ru/courses/course-v1:Skil
 
 ## Проекты 
 
-* [Проект 0. Угадай число]()
+* [Проект 0. Угадай число](https://github.com/Ilyaf661/sf_data_science_DSPR-61/blob/main/project_0/game_my_version.py)
 * [Проект 1.]()
 * [Проект 2.]()
